@@ -16,5 +16,7 @@ public class Git_test {
         System.out.println("hellow git");
         System.out.println("hellow git");
         System.out.println("hot fix   444");
+         System.out.println("给i他湖北
+                            dsdsa");
     }
 }
